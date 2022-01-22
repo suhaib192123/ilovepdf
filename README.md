@@ -131,7 +131,7 @@ the extracted PDF-images..</em>
     ╰────Railways──〄
 
 ### deploy on heroku:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nabilanavab/ilovepdf)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/suhaib192123/ilovepdf)
 
 ## Project setUp:
 
