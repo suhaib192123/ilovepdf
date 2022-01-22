@@ -45,7 +45,7 @@ Update Channel: @kashir_bots 🤩
     
     
     feedbackMsg = """
-[Write a feedback 📋]https://t.me/Dsrs_Group()
+[Write a feedback 📋](https://t.me/Dsrs_Group)
 """
     
     
