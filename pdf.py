@@ -1183,8 +1183,8 @@ async def answer(client, callbackQuery):
                     [
                         [
                             InlineKeyboardButton(
-                                "Source Codes",
-                                url = "https://github.com/nabilanavab/ilovepdf"
+                                "DEVLOPER",
+                                url = "https://t.me/The_dsr"
                             ),
                             InlineKeyboardButton(
                                 "🔙 Home 🏡",
