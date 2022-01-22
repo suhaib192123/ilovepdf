@@ -37,15 +37,15 @@ Some of the main features are:
 ◍ `Convert PDF to images`
 ◍ `Convert files to pdf`                                                                         
 
-Update Channel: @ilovepdf_bot 🤩
+Update Channel: @kashir_bots 🤩
 
-[Source Code 🏆](https://github.com/nabilanavab/ilovepdf)
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Support group🏆](https://t.me/Dsrs_Group)
+[Write a feedback 📋](https://t.me/Dsrs_Group)
 """
     
     
     feedbackMsg = """
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Write a feedback 📋]https://t.me/Dsrs_Group()
 """
     
     
@@ -59,7 +59,7 @@ hit on "retry ♻️" after joining.. 😅
 """
     
     
-    foolRefresh = """വിളച്ചിലെടുക്കല്ലേ കേട്ടോ 😐"""
+    foolRefresh = """refresh karu 😐"""
     
     
     fullPdfSplit = """If you want to split a pdf,
@@ -88,7 +88,7 @@ key 🔐: `{}`"""
 
 ERROR: `{}`
 
-For bot updates join @ilovepdf_bot 💎
+For bot updates join @kashir_bots 💎
 """
     
     
@@ -105,21 +105,21 @@ reply:
 /encrypt `password` - to set password
 /text - to extract text from pdf
 
-Join Update Channel @ilovepdf_bot, More features soon 🔥
+Join Update Channel @kashir_bots, More features soon 🔥
 """
     
     
     aboutDev = """About Dev:
 
-OwNeD By: @nabilanavab 😜
-Update Channel: @ilovepdf_bot 😇                                                                
+OwNeD By: @south_kashmir 😜
+Update Channel: @kashir_bots 😇                                                                
 
 Lang Used: Python🐍
-[Source Code](https://github.com/nabilanavab/ilovepdf)
+[support group](https://t.me/Dsrs_Group)
 
-Join @ilovepdf_bot, if you ❤ this
+Join @kashir_bots, if you ❤ this
 
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Write a feedback 📋](https://t.me/Dsrs_Group)
 """
     
     
@@ -128,7 +128,7 @@ Join @ilovepdf_bot, if you ❤ this
         Just Send/forward me some images. When you are finished; use /generate to get your pdf..😉
 
  ◍ Image Sequence will be considered 🤓
- ◍ For better quality pdfs(send images without Compression) 🤧
+ ◍ For better quality pdfs(send images without Compression) u can use @Dsrspdf_compressbot  to compress pdfs 🤧
  
  ◍ `/delete` - Delete's the current Queue 😒
  ◍ `/id` - to get your telegram ID 🤫                                                            
@@ -139,9 +139,9 @@ Join @ilovepdf_bot, if you ❤ this
     - `/generate fileName` - to change pdf name to fileName🤞
     - `/generate name` - to get pdf with your telegram name
 
-For bot updates join @ilovepdf_bot 💎
+For bot updates join @kashir_bots 💎
 
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Write a feedback 📋](https://t.me/Dsrs_Group)
 """
     
     
@@ -157,9 +157,9 @@ For bot updates join @ilovepdf_bot 💎
 
 1st bot on telegram wich send images without converting entire pdf to images
 
-For bot updates join @ilovepdf_bot 💎
+For bot updates join @kashir_bots💎
 
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Write a feedback 📋](https://t.me/Dsrs_Group)
 """
     
     
@@ -173,9 +173,9 @@ For bot updates join @ilovepdf_bot 💎
 ◍ added 30+ new file formats that can be converted to pdf..
 API LIMITS..😕
 
-For bot updates join @ilovepdf_bot 💎                                                           
+For bot updates join @kashir_bots 💎                                                           
 
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Write a feedback 📋](https://t.me/Dsrs_Group)
 """
     
     
@@ -185,11 +185,11 @@ For bot updates join @ilovepdf_bot 💎
 
 ◍ Please don't try to spread 18+ contents 😒
 
-IF THERE IS ANY KIND OF REPORTING, BUGS, REQUESTS, AND SUGGESTIONS PLEASE CONTACT @nabilanavab
+IF THERE IS ANY KIND OF REPORTING, BUGS, REQUESTS, AND SUGGESTIONS PLEASE CONTACT @Dsrs_Group
 
-For bot updates join @ilovepdf_bot 💎                                                           
+For bot updates join @kashir_bots 💎                                                           
 
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Write a feedback 📋](https://t.me/Dsrs_Group)
 """
     
     
@@ -200,9 +200,9 @@ Some of the main features are:
 ◍ `Convert PDF to images`
 ◍ `Convert files to pdf`
 
-For bot updates join @ilovepdf_bot 💎                                                           
+For bot updates join @kashir_bots 💎                                                           
 
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Write a feedback 📋](https://t.me/Dsrs_Group)
 """
 
 # please don't try to steel this code,
